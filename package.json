@@ -20,7 +20,9 @@
     "url": "https://github.com/guooooooo/anydoor/issues"
   },
   "homepage": "https://github.com/guooooooo/anydoor#readme",
-  "dependencies": {},
+  "dependencies": {
+    "chalk": "^2.4.1"
+  },
   "devDependencies": {
     "babel-eslint": "^10.0.1",
     "eslint": "^5.7.0"
