@@ -1,0 +1,28 @@
+{
+  "name": "anydoor",
+  "version": "1.0.0",
+  "description": "Tiny NodeJS Static Web Server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guooooooo/anydoor.git"
+  },
+  "keywords": [
+    "static",
+    "webserver"
+  ],
+  "author": "guolh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guooooooo/anydoor/issues"
+  },
+  "homepage": "https://github.com/guooooooo/anydoor#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "babel-eslint": "^10.0.1",
+    "eslint": "^5.7.0"
+  }
+}
