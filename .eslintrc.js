@@ -5,6 +5,7 @@ module.exports = {
         "es6": true
     },
     "extends": "eslint:recommended",
+    "parser": "babel-eslint",
     "parserOptions": {
         "ecmaVersion": 2015
     },
@@ -25,6 +26,7 @@ module.exports = {
             "error",
             "always"
         ],
-        "no-console": "off"
+        "no-console": "off",
+        'generator-star-spacing': "off"
     }
 };
